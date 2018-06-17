@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+  <question>
+    <quest>What is a cat?</quest>
+    <options>
+      <answer correct="true">An animal</answer>
+      <answer correct="false">An vegestable</answer>
+      <answer correct="false">A car</answer>
+    </options>
+  </question>
+  <question>
+    <quest>What is a car?</quest>
+    <options>
+      <answer correct="true">An vehicle</answer>
+      <answer correct="false">An vegestable</answer>
+      <answer correct="false">An plane</answer>
+    </options>
+  </question>
+</questions>

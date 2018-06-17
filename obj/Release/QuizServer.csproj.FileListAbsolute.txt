@@ -1,0 +1,13 @@
+C:\Users\mariu\source\repos\QuizServer\QuizServer\bin\Release\QuizServer.exe.config
+C:\Users\mariu\source\repos\QuizServer\QuizServer\bin\Release\QuizServer.exe
+C:\Users\mariu\source\repos\QuizServer\QuizServer\bin\Release\QuizServer.pdb
+C:\Users\mariu\source\repos\QuizServer\QuizServer\obj\Release\QuizServer.csprojAssemblyReference.cache
+C:\Users\mariu\source\repos\QuizServer\QuizServer\obj\Release\QuizServer.ClientObject.resources
+C:\Users\mariu\source\repos\QuizServer\QuizServer\obj\Release\QuizServer.Form1.resources
+C:\Users\mariu\source\repos\QuizServer\QuizServer\obj\Release\QuizServer.Properties.Resources.resources
+C:\Users\mariu\source\repos\QuizServer\QuizServer\obj\Release\QuizServer.QuizObject.resources
+C:\Users\mariu\source\repos\QuizServer\QuizServer\obj\Release\QuizServer.QuizServer.resources
+C:\Users\mariu\source\repos\QuizServer\QuizServer\obj\Release\QuizServer.csproj.GenerateResource.cache
+C:\Users\mariu\source\repos\QuizServer\QuizServer\obj\Release\QuizServer.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\QuizServer\QuizServer\obj\Release\QuizServer.exe
+C:\Users\mariu\source\repos\QuizServer\QuizServer\obj\Release\QuizServer.pdb
